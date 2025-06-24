@@ -1,0 +1,15 @@
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\bin\Debug\net7.0\SoftUniBazar.Data.deps.json
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\bin\Debug\net7.0\SoftUniBazar.Data.runtimeconfig.json
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\bin\Debug\net7.0\SoftUniBazar.Data.dll
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\bin\Debug\net7.0\SoftUniBazar.Data.pdb
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.csproj.AssemblyReference.cache
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.AssemblyInfoInputs.cache
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.AssemblyInfo.cs
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.sourcelink.json
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.dll
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\refint\SoftUniBazar.Data.dll
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.pdb
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\SoftUniBazar.Data.genruntimeconfig.cache
+D:\SEDO-Exam-Prep-1-2\SoftUniBazar.Data\obj\Debug\net7.0\ref\SoftUniBazar.Data.dll
